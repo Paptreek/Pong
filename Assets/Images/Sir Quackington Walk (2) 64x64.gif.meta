@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 87400c76e55b66e4d8186bff7d828062
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5119995607248624260
+    second: Sir Quackington Walk (2) 64x64_0
+  - first:
+      213: -2285758579625457529
+    second: Sir Quackington Walk (2) 64x64_1
+  - first:
+      213: 5234454392933349464
+    second: Sir Quackington Walk (2) 64x64_2
+  - first:
+      213: 5930400320198874105
+    second: Sir Quackington Walk (2) 64x64_3
+  - first:
+      213: -8424917221989551217
+    second: Sir Quackington Walk (2) 64x64_4
+  - first:
+      213: -6845372729254415787
+    second: Sir Quackington Walk (2) 64x64_5
+  - first:
+      213: -4320403724037692070
+    second: Sir Quackington Walk (2) 64x64_6
+  - first:
+      213: -5936142992150166017
+    second: Sir Quackington Walk (2) 64x64_7
+  - first:
+      213: -3537431394868936353
+    second: Sir Quackington Walk (2) 64x64_8
+  - first:
+      213: 5121480444142171883
+    second: Sir Quackington Walk (2) 64x64_9
+  - first:
+      213: 2703691944766427896
+    second: Sir Quackington Walk (2) 64x64_10
+  - first:
+      213: 7297062373850096392
+    second: Sir Quackington Walk (2) 64x64_11
+  - first:
+      213: -1306529831465745158
+    second: Sir Quackington Walk (2) 64x64_12
+  - first:
+      213: -2022679985847279326
+    second: Sir Quackington Walk (2) 64x64_13
+  - first:
+      213: -6381483192485764690
+    second: Sir Quackington Walk (2) 64x64_14
+  - first:
+      213: 8572659194246007359
+    second: Sir Quackington Walk (2) 64x64_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_0
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a5d9db0e0ed0740800000000000000
+      internalID: 5119995607248624260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 419
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7888f1baeaa5740e0800000000000000
+      internalID: -2285758579625457529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 419
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85876cb798484a840800000000000000
+      internalID: 5234454392933349464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 419
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3115daba30d4250800000000000000
+      internalID: 5930400320198874105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 419
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83fd397c6ea41b80800000000000000
+      internalID: -8424917221989551217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_5
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 419
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552f4a565c95001a0800000000000000
+      internalID: -6845372729254415787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 419
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55657614b7da04c0800000000000000
+      internalID: -4320403724037692070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff507f056659e9da0800000000000000
+      internalID: -5936142992150166017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 239
+        width: 132
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51c58373e488eec0800000000000000
+      internalID: -3537431394868936353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be634354457231740800000000000000
+      internalID: 5121480444142171883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 179
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f253edbf71758520800000000000000
+      internalID: 2703691944766427896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 179
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8032439419f544560800000000000000
+      internalID: 7297062373850096392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_12
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 179
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af488036a064edde0800000000000000
+      internalID: -1306529831465745158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_13
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 179
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221e74df44ffde3e0800000000000000
+      internalID: -2022679985847279326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 179
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1a2c3d8da6077a0800000000000000
+      internalID: -6381483192485764690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Quackington Walk (2) 64x64_15
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a05850e1438f670800000000000000
+      internalID: 8572659194246007359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sir Quackington Walk (2) 64x64_0: 5119995607248624260
+      Sir Quackington Walk (2) 64x64_1: -2285758579625457529
+      Sir Quackington Walk (2) 64x64_10: 2703691944766427896
+      Sir Quackington Walk (2) 64x64_11: 7297062373850096392
+      Sir Quackington Walk (2) 64x64_12: -1306529831465745158
+      Sir Quackington Walk (2) 64x64_13: -2022679985847279326
+      Sir Quackington Walk (2) 64x64_14: -6381483192485764690
+      Sir Quackington Walk (2) 64x64_15: 8572659194246007359
+      Sir Quackington Walk (2) 64x64_2: 5234454392933349464
+      Sir Quackington Walk (2) 64x64_3: 5930400320198874105
+      Sir Quackington Walk (2) 64x64_4: -8424917221989551217
+      Sir Quackington Walk (2) 64x64_5: -6845372729254415787
+      Sir Quackington Walk (2) 64x64_6: -4320403724037692070
+      Sir Quackington Walk (2) 64x64_7: -5936142992150166017
+      Sir Quackington Walk (2) 64x64_8: -3537431394868936353
+      Sir Quackington Walk (2) 64x64_9: 5121480444142171883
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
